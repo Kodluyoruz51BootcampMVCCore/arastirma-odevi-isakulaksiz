@@ -1,4 +1,4 @@
-# Araştırma Ödevi
+# Araştırma Ödevi (1.hafta)
 
 
 1. Solid Prensiplerini Öğren.
